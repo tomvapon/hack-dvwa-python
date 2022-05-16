@@ -1,6 +1,5 @@
-from bs4 import BeautifulSoup
-import requests
 import re
+import requests
 
 # Target URL
 login_url = 'http://localhost/login.php'
