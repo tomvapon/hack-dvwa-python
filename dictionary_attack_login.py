@@ -34,4 +34,5 @@ with requests.Session() as session:
 
                     # If hack is done, it will redirect to index
                     if p.url in ['http://localhost/index.php']:
+                        # Print the correct user/password
                         print(f'Cracked with {user.strip()}/{password.strip()}')
