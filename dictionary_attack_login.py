@@ -1,6 +1,7 @@
 import re
 import requests
 
+
 # Target URL
 login_url = 'http://localhost/login.php'
 
