@@ -1,5 +1,3 @@
-user1
-user2
-admin
-tomas
-user3
+version https://git-lfs.github.com/spec/v1
+oid sha256:79a8cf10fa22e2a45b72e2e5bed60c351dc5233d7b0b99b9f966318d4cb6c444
+size 29
